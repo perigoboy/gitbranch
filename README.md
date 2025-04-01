@@ -1,1 +1,1 @@
-# gitbranch
+git config --global --list
