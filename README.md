@@ -1,1 +1,1 @@
-git config --global --list
+Perigo buga
